@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
+Web.config
+Web.Release.config
+Web.Debug.config
 
 # Folder config file
 Desktop.ini
@@ -18,6 +21,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+/bin
+/.vs
 # =========================
 # Operating System Files
 # =========================
